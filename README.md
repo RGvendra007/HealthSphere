@@ -103,9 +103,9 @@ Rajat Goel
 (Project Supervisor)
 
 Project Team :
-
-Prateek Dixit
 Raghvendra Yadav
+Prateek Dixit
+
 Priyansh Singh
 Raghvendra Pratap Singh
 
