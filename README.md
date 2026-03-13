@@ -22,7 +22,7 @@ A modern, responsive fitness and health platform designed to help users track th
 ![Screenshot 14](src/assets/one%20four.png)
 ![Screenshot 15](src/assets/one%20five.png)
 ![Screenshot 16](src/assets/one%20six.png)
-![Screenshot 17](src/assets/one%20seven.png)
+
 
 ## Features
 
