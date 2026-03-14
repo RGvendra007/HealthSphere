@@ -198,7 +198,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 HealthSphere. All rights reserved. Created by {user.name}</p>
+            <p>&copy; 2025 HealthSphere. All rights reserved. Created by Raghvendra Yadav</p>
           </div>
         </div>
       </footer>
